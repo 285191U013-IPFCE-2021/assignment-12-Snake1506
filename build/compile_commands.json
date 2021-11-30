@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/nicol/Desktop/C C++/Week_12/assignment-12-Snake1506/build",
+  "command": "C:\\MngW\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/mymath.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\mymath.dir\\src\\duration.cpp.obj -c \"C:\\Users\\nicol\\Desktop\\C C++\\Week_12\\assignment-12-Snake1506\\src\\duration.cpp\"",
+  "file": "C:/Users/nicol/Desktop/C C++/Week_12/assignment-12-Snake1506/src/duration.cpp"
+},
+{
+  "directory": "C:/Users/nicol/Desktop/C C++/Week_12/assignment-12-Snake1506/build",
+  "command": "C:\\MngW\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\main.dir\\src\\main.cpp.obj -c \"C:\\Users\\nicol\\Desktop\\C C++\\Week_12\\assignment-12-Snake1506\\src\\main.cpp\"",
+  "file": "C:/Users/nicol/Desktop/C C++/Week_12/assignment-12-Snake1506/src/main.cpp"
+},
+{
+  "directory": "C:/Users/nicol/Desktop/C C++/Week_12/assignment-12-Snake1506/build/tests",
+  "command": "C:\\MngW\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/tests.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\tests.dir\\src\\tests.cpp.obj -c \"C:\\Users\\nicol\\Desktop\\C C++\\Week_12\\assignment-12-Snake1506\\tests\\src\\tests.cpp\"",
+  "file": "C:/Users/nicol/Desktop/C C++/Week_12/assignment-12-Snake1506/tests/src/tests.cpp"
+}
+]

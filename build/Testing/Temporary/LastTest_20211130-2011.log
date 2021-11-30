@@ -1,0 +1,21 @@
+Start testing: Nov 30 21:11 Rom, normaltid
+----------------------------------------------------------
+1/1 Testing: usage_test
+1/1 Test: usage_test
+Command: "C:/Users/nicol/Desktop/C C++/Week_12/assignment-12-Snake1506/build/tests/tests.exe"
+Directory: C:/Users/nicol/Desktop/C C++/Week_12/assignment-12-Snake1506/build/tests
+"usage_test" start time: Nov 30 21:11 Rom, normaltid
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (16 assertions in 3 test cases)
+
+<end of output>
+Test time =   1.81 sec
+----------------------------------------------------------
+Test Passed.
+"usage_test" end time: Nov 30 21:11 Rom, normaltid
+"usage_test" time elapsed: 00:00:01
+----------------------------------------------------------
+
+End testing: Nov 30 21:11 Rom, normaltid

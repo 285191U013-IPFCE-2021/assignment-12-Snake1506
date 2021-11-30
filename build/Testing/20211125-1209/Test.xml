@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-mingw32-make"
+	BuildStamp="20211125-1209-Experimental"
+	Name="LAPTOP-SFE41MRI"
+	Generator="ctest-3.21.3"
+	CompilerName="C:/MngW/bin/x86_64-w64-mingw32-g++.exe"
+	CompilerVersion="8.1.0"
+	OSName="Windows"
+	Hostname="LAPTOP-SFE41MRI"
+	OSRelease=" Professional"
+	OSVersion=" (Build 19042)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="15"
+	ModelID="0"
+	ProcessorCacheSize="64"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="18796"
+	TotalPhysicalMemory="14188"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="3194"
+	>
+	<Testing>
+		<StartDateTime>Nov 25 13:30 Rom, normaltid</StartDateTime>
+		<StartTestTime>1637843431</StartTestTime>
+		<TestList>
+			<Test>./tests/usage_test</Test>
+		</TestList>
+		<Test Status="failed">
+			<Name>usage_test</Name>
+			<Path>./tests</Path>
+			<FullName>./tests/usage_test</FullName>
+			<FullCommandLine>"C:\Users\nicol\Desktop\C C++\Week_12\assignment-12-Snake1506\build\tests\tests.exe"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="text/string" name="Exit Code">
+					<Value>Failed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Exit Value">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>5.09188</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>"C:\Users\nicol\Desktop\C C++\Week_12\assignment-12-Snake1506\build\tests\tests.exe"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJytUk1LxDAQvc+vmKOyNDRxFSkUkW6FBS9WFi8BCe2sDa1J6GR1D+Jvt81e/AF9MDDMPObjzcDvuoBIHFnQmdAyGqxMbHv8UkLeiC32niOaEEbbmmi9E9CcHH7b2GP2gEc/oQ9LnAGydQHdaUotVy9cFfrANLF2tvWj3hEP0QddYbXZ6Dei4V0qbZjth/skFzOpsldnBpK3+Z1Oamme2osn2hAKuQWxLmD9IdV9gU+P++d6VwBiU78c9k19haywLFHmeA3pqnQOxvEs+8LKLzmAcl2kn8PWMHGBEn9mOxo7UgfzRjSlhypQpURYQt1/DvwB+wbcuw==</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Nov 25 13:30 Rom, normaltid</EndDateTime>
+		<EndTestTime>1637843436</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
